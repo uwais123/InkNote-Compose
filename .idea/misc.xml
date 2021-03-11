@@ -6,7 +6,16 @@
         <entry key="../../../../layout/compose-model-1615169998508.xml" value="0.375" />
         <entry key="../../../../layout/compose-model-1615379901119.xml" value="0.5" />
         <entry key="../../../../layout/compose-model-1615452303356.xml" value="0.45" />
-        <entry key="../../../../layout/compose-model-1615456590992.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1615456590992.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1615458719273.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1615459636087.xml" value="1.0" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.2605128205128205" />
+        <entry key="app/src/main/res/drawable/ic_attach_file.xml" value="0.2605128205128205" />
+        <entry key="app/src/main/res/drawable/ic_backup.xml" value="0.2605128205128205" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.2605128205128205" />
+        <entry key="app/src/main/res/drawable/ic_edit.xml" value="0.2605128205128205" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.2605128205128205" />
+        <entry key="app/src/main/res/drawable/ic_upload.xml" value="0.2605128205128205" />
       </map>
     </option>
   </component>
