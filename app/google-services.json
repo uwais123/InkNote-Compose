@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "508617057847",
+    "firebase_url": "https://personaltodoapp.firebaseio.com",
+    "project_id": "personaltodoapp",
+    "storage_bucket": "personaltodoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508617057847:android:f55d22522b20fd43f001b2",
+        "android_client_info": {
+          "package_name": "com.masuwes.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508617057847-20nqfhcp83j2giahgaaoc0frispk0ter.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masuwes.todoapp",
+            "certificate_hash": "3d362bac060a00d76d1974658f313960856d45a6"
+          }
+        },
+        {
+          "client_id": "508617057847-sg8iqr4g2400fm4has0d0me1g2ecoktv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnap4BzqlIoWPrxIoYNmFJnUdN5Qp0ik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508617057847-sg8iqr4g2400fm4has0d0me1g2ecoktv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508617057847:android:337943782f4cf48df001b2",
+        "android_client_info": {
+          "package_name": "com.uwaisalqadri.inknote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508617057847-9ggvhmk5vaendgoo1sn2bs78ulihruan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uwaisalqadri.inknote",
+            "certificate_hash": "3d362bac060a00d76d1974658f313960856d45a6"
+          }
+        },
+        {
+          "client_id": "508617057847-sg8iqr4g2400fm4has0d0me1g2ecoktv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnap4BzqlIoWPrxIoYNmFJnUdN5Qp0ik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508617057847-sg8iqr4g2400fm4has0d0me1g2ecoktv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
