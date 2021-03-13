@@ -59,15 +59,15 @@ fun NoteItem(note: Note, navController: NavController) {
                 .clickable { navController.navigate(Screen.writeNoteScreen) }
         ) {
             Text(
-                text = note.title.toString(),
+                text = note.title ?: "No title",
                 style = InkTypography.body1,
             )
             Text(
-                text = note.date.toString(),
+                text = note.date ?: "Date",
                 style = InkTypography.caption
             )
             Text(
-                text = note.description.toString(),
+                text = note.description ?: "No Description",
                 style = InkTypography.body2
             )
             Icon(

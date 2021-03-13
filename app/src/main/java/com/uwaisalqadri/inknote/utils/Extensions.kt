@@ -1,16 +1,14 @@
 package com.uwaisalqadri.inknote.utils
 
-import android.app.Dialog
 import android.content.Context
-import android.view.View
-import android.view.Window
 import android.widget.Toast
-import com.google.android.material.snackbar.Snackbar
-import com.uwaisalqadri.inknote.data.model.Note
+import java.text.SimpleDateFormat
 import java.util.*
 
-val date = Date()
-//val today = date.toDateEMYShort()
+fun getCurrentDate(format: String): String {
+    val formatter = SimpleDateFormat(format, Locale.getDefault())
+    return formatter.format(Date())
+}
 
 fun Context.showToast(msg: String) {
     Toast.makeText(
